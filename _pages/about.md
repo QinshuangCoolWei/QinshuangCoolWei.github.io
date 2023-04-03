@@ -17,6 +17,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Qinshuang Wei received the B.S., M.S., and Ph.D. degrees in electrical engineering from Georgia Institute of Technology, Atlanta, Georgia, USA in 2017, 2018, and 2022, where she also received the B.S. degree in applied mathematics in 2017. She is currently a postdoctoral fellow in the University of Texas at Austin.
+
+Her research interests include control systems, cyber-physical systems and optimization. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
