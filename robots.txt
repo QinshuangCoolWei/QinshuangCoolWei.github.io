@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://QinshuangCoolWei.github.io/sitemap.xml
