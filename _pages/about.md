@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: qinshuang.wei@austin.utexas.edu,  sheilaloveseating@gmail.com  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  qinshuang.wei@austin.utexas.edu,  sheilaloveseating@gmail.com  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
