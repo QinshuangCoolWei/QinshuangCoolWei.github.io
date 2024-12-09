@@ -35,7 +35,12 @@
       institution: University of Texas at Austin, Austin, TX, USA
       year: 2022 - 2023
       description:
-        - Work with the Autonomous Systems Group.
+        - Worked with the Autonomous Systems Group, advised by Prof. Ufuk Topcu.
+    - title: Postdoctoral Fellow
+      institution: Purdue University, West Lafayette, IN, USA
+      year: 2023 - now
+      description:
+        - Advised by Prof. Vijay Gupta.
 #         - Description 2.
 #         - title: Description 3.
 #           contents:
@@ -84,8 +89,13 @@
   contents:
     - title: Cyber-Physical Systems.
       items: 
-        - Cyber-physical systems with application in transportation system.
-        - Contributes to multiple research areas, including optimization, control, and transportation.
+        - Contributes to multiple research areas, including optimization, control, transportation, and supply chain. 
+    - title: Low Altitude Air Mobility.
+      items: 
+        - Consists of network science, transportation, resilience, control, game theory, and optimization.
+    - title: Human and Robot Interaction
+      items: 
+        - Consider human preference and randomness in teams consisting of human and robot members.
 #     - title: Topic 2.
 #       items:
 #         - Description 1.
