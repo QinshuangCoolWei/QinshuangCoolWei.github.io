@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-Qinshuang Wei received the B.S., M.S., and Ph.D. degrees in electrical engineering from Georgia Institute of Technology, Atlanta, Georgia, USA in 2017, 2018, and 2022, where she also received the B.S. degree in applied mathematics in 2017. She is currently a postdoctoral fellow in the University of Texas at Austin.
+Qinshuang Wei received the B.S., M.S., and Ph.D. degrees in electrical engineering from Georgia Institute of Technology, Atlanta, Georgia, USA in 2017, 2018, and 2022, where she also received the B.S. degree in applied mathematics in 2017. She is currently a postdoctoral fellow at the Purdue University. Before she went to the Purdue University, she worked as a postdoctoral fellow at the University of Texas at Austin.
 
-Her research interests include control systems, cyber-physical systems and optimization. 
+Her research interests include control systems, cyber-physical systems, optimization, transportation, network science, and game theory. 
 
