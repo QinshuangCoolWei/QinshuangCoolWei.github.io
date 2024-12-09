@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  qinshuang.wei@austin.utexas.edu,  sheilaloveseating@gmail.com  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  wei473@purdue.edu,  sheilaloveseating@gmail.com  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
